@@ -1,7 +1,7 @@
 FROM php:8.3-fpm
 
 # Arguments
-ARG user=aprosoja
+ARG user=invest
 ARG uid=1000
 
 # Install system dependencies
